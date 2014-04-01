@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace KinectTest.Properties
+namespace RubixCube.Properties
 {
 
 
